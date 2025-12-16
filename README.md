@@ -1,1 +1,2 @@
-# streamlit-clothes-tryon.
+streamlit
+replicate
